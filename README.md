@@ -1,20 +1,97 @@
-# SAP Study Resources
+# SAP ABAP Developer Associate – Preparation Guide
 
-This repository contains preparation materials, references, and setup guides for students learning SAP ABAP, SAP HANA, and SAP BTP.
+This repository contains curated study materials to help you prepare for the **SAP ABAP Developer Associate certification training**.
 
-## Audience
-- Beginners with no programming experience
-- Learners refreshing programming or database basics
-- Students preparing for SAP ABAP Developer Associate training
+It is designed for:
 
-## Contents
-- Programming fundamentals
-- Object-oriented programming
-- Databases and SQL
-- ABAP basics
-- SAP overview
-- Setup and tools
-- SAP BTP / cloud basics
+* Beginners with little or no programming experience
+* Learners who want to refresh fundamental concepts
+* Students preparing for ABAP, SAP HANA, and SAP BTP
 
-## Start Here
-See the [Course Preparation Guide](docs/course-preparation.md).
+---
+
+## You'll references to relevant concepts and resources for:
+
+* Programming fundamentals
+* Object-Oriented Programming (OOP)
+* Databases & SQL
+* ABAP basics
+* SAP ecosystem overview
+* Development tools (Eclipse + ADT)
+* SAP BTP (Cloud) fundamentals
+
+---
+
+## Recommended Learning Path
+
+If you're new, follow this order:
+
+1. [Programming Fundamentals](docs/programming-fundamentals.md)
+2. [OOP Concepts](docs/oop-concepts.md)
+3. [Databases & SQL](docs/databases-and-sql.md)
+4. [ABAP Introduction](docs/abap-introduction.md)
+5. [ABAP OOP](docs/abap-oop.md)
+6. [SAP Overview](docs/sap-overview.md)
+7. [Setup Guide](docs/setup-guide.md)
+8. [SAP BTP & Cloud](docs/sap-btp.md)
+
+---
+
+## Course Preparation Overview
+
+### Start here:
+[Course Preparation Guide](docs/course-preparation.md)
+
+---
+
+## Development Setup
+
+Before the course begins, if you're keen to dive in, you can:
+
+* Install Eclipse IDE
+* Install ABAP Development Tools (ADT)
+* Ensure you can access your ABAP system
+
+See full guide:
+[Setup Guide](docs/setup-guide.md)
+
+---
+
+## SAP Cloud (Optional but Recommended)
+
+You can alsonexplore SAP BTP before the course:
+
+* Create a free trial account
+* Explore ABAP Cloud environment
+* Understand SAP cloud architecture
+
+### Learn more:
+[SAP BTP Guide](docs/sap-btp.md)
+
+---
+
+## Before you get started:
+
+* Focus on understanding concepts, not memorizing syntax
+* Practice SQL basics — this helps a lot in ABAP
+* Don’t worry if ABAP feels unfamiliar at first
+
+---
+
+## Contributing
+
+Contributions are welcome!
+
+If you’d like to improve this repo:
+
+* Add high-quality resources
+* Keep content beginner-friendly
+* Organize content clearly
+
+---
+
+## Note
+
+This repository will be updated from time to time and with contributions from others. Feel free to create a pull request or message with anything you find useful.
+
+---
