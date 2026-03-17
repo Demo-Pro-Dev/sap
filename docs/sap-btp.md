@@ -1,42 +1,30 @@
 # SAP BTP & Cloud Basics
 
-Modern ABAP development often takes place in the cloud using SAP BTP.
+Modern ABAP development often takes SAP BTP is the cloud platform used for modern ABAP development.
 
----
-
-## SAP BTP Overview
+### SAP BTP Overview
 
 * https://www.sap.com/products/technology-platform.html
 * https://developers.sap.com/topics/btp.html
 
----
-
-## Try SAP BTP Trial
+### Try SAP BTP Trial
 
 * https://www.sap.com/products/technology-platform/trial.html
 * https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html
 
----
-
-## Tools You Will Use
+### Tools You Will Use
 
 * Eclipse + ABAP Development Tools (ADT)
 * SAP BTP Cockpit
 * ABAP Cloud Project
 
----
 
-## Key Concepts
+### Key Concepts
 
 * Cloud vs On-Premise SAP
 * ABAP Environment (Cloud)
 * SAP HANA as database
 
----
+### Why This Matters
 
-## Why This Matters
-
-ABAP development is increasingly moving to the cloud.
-Understanding SAP BTP will give you a strong advantage.
-
----
+ABAP development is increasingly moving to the cloud. Understanding SAP BTP will givea a strong advantage as things evolve increasing toward the cloud.
