@@ -10,11 +10,10 @@ Before learning ABAP, it is important to understand basic programming concepts.
 * Conditional logic (IF / ELSE)
 * Loops (FOR, WHILE)
 * Functions / methods
-* Basic problem-solving
 
 ---
 
-## Learning Resources
+## Learning Resource
 
 * https://www.w3schools.com/programming/
 
@@ -24,13 +23,9 @@ Before learning ABAP, it is important to understand basic programming concepts.
 
 * How programs execute step-by-step
 * Writing simple logic
-* Understanding how data is stored and used
 
 ---
 
-## Tip
-
-You do not need to learn a specific programming language deeply.
-Focus on **concepts**, not syntax.
+### At this point, focus on the concepts rather than language-specific syntax.
 
 ---
