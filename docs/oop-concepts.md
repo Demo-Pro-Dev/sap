@@ -1,4 +1,3 @@
-
 # Object-Oriented Programming (OOP)
 
 ABAP is heavily based on object-oriented programming, so understanding OOP is essential.
@@ -11,14 +10,18 @@ ABAP is heavily based on object-oriented programming, so understanding OOP is es
 * Methods and Attributes
 * Encapsulation
 * Inheritance
-* Polymorphism
 
 ---
 
 ## Learning Resources
 
-* https://www.youtube.com/watch?v=pTB0EiLXUC8
-* https://www.youtube.com/watch?v=SiBw7os-_zI
+### Object-Oriented Programming, Simplified
+
+[![OOP Explained](https://img.youtube.com/vi/pTB0EiLXUC8/0.jpg)](https://www.youtube.com/watch?v=pTB0EiLXUC8)
+
+### Intro to Object Oriented Programming - Crash Course
+
+[![OOP Quick Guide](https://img.youtube.com/vi/SiBw7os-_zI/0.jpg)](https://www.youtube.com/watch?v=SiBw7os-_zI)
 
 ---
 
@@ -30,9 +33,6 @@ ABAP is heavily based on object-oriented programming, so understanding OOP is es
 
 ---
 
-## Tip
-
-Do not worry about advanced theory.
-Just understand how objects represent real-world things.
+#### Do not worry about advanced theory just yet. Just understand how objects represent real-world things.
 
 ---
