@@ -8,19 +8,17 @@ It is designed for:
 * Learners who want to refresh fundamental concepts
 * Students preparing for ABAP, SAP HANA, and SAP BTP
 
----
 
-## You'll references to relevant concepts and resources for:
+## You'll find references to relevant concepts and resources for:
 
 * Programming fundamentals
 * Object-Oriented Programming (OOP)
 * Databases & SQL
 * ABAP basics
 * SAP ecosystem overview
-* Development tools (Eclipse + ADT)
 * SAP BTP (Cloud) fundamentals
+* Development tools (Eclipse + ADT)
 
----
 
 ## Recommended Learning Path
 
@@ -32,17 +30,15 @@ If you're new, follow this order:
 4. [ABAP Introduction](docs/abap-introduction.md)
 5. [ABAP OOP](docs/abap-oop.md)
 6. [SAP Overview](docs/sap-overview.md)
-7. [Setup Guide](docs/setup-guide.md)
-8. [SAP BTP & Cloud](docs/sap-btp.md)
+7. [SAP BTP & Cloud](docs/sap-btp.md)
+8. [Setup Guide](docs/setup-guide.md)
 
----
 
 ## Course Preparation Overview
 
 ### Start here:
 [Course Preparation Guide](docs/course-preparation.md)
 
----
 
 ## Development Setup
 
@@ -55,7 +51,6 @@ Before the course begins, if you're keen to dive in, you can:
 See full guide:
 [Setup Guide](docs/setup-guide.md)
 
----
 
 ## SAP Cloud (Optional but Recommended)
 
@@ -68,7 +63,6 @@ You can alsonexplore SAP BTP before the course:
 ### Learn more:
 [SAP BTP Guide](docs/sap-btp.md)
 
----
 
 ## Before you get started:
 
@@ -76,22 +70,10 @@ You can alsonexplore SAP BTP before the course:
 * Practice SQL basics — this helps a lot in ABAP
 * Don’t worry if ABAP feels unfamiliar at first
 
----
 
 ## Contributing
+This repository will be updated from time to time and with contributions from others. Make a pull request if you’d like to improve this repo. You can contribute by:
+* Sharing high-quality resources
+* Keeping content beginner-friendly
+* Helping to organize content clearly
 
-Contributions are welcome!
-
-If you’d like to improve this repo:
-
-* Add high-quality resources
-* Keep content beginner-friendly
-* Organize content clearly
-
----
-
-## Note
-
-This repository will be updated from time to time and with contributions from others. Feel free to create a pull request or message with anything you find useful.
-
----
