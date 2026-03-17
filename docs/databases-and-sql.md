@@ -2,30 +2,26 @@
 
 ABAP works closely with databases, especially SAP HANA.
 
----
-
 ## Database Concepts
 
 * Tables, rows, and columns
 * Primary keys
 * Relationships
 
-https://www.lucidchart.com/pages/tutorial/database-design-and-structure
-
----
+### Database Design & Structure
+* https://www.lucidchart.com/pages/tutorial/database-design-and-structure
 
 ## SQL Basics
 
-### Tutorials
+### Quick Intro & Practice
 
 * https://www.w3schools.com/sql/sql_intro.asp
 * https://www.w3schools.com/sql/
 
-### Practice
+### SQL Introduction
 
-* https://www.sqlbolt.com/
+[![SQL Intro](https://img.youtube.com/vi/7S_tz1z_5bA/0.jpg)](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 
----
 
 ## What to Focus On
 
@@ -33,11 +29,9 @@ https://www.lucidchart.com/pages/tutorial/database-design-and-structure
 * WHERE conditions
 * JOIN operations
 
----
 
-## Why This Matters
+## Why It Matters
 
 ABAP uses **Open SQL**, which is very similar to SQL.
 Understanding SQL will make ABAP much easier.
 
----
