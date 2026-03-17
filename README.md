@@ -66,9 +66,9 @@ You can alsonexplore SAP BTP before the course:
 
 ## Before you get started:
 
-* Focus on understanding concepts, not memorizing syntax
-* Practice SQL basics — this helps a lot in ABAP
-* Don’t worry if ABAP feels unfamiliar at first
+* Focus on understanding concepts, not memorizing syntax.
+* Practice SQL basics.
+* Don’t worry if ABAP feels unfamiliar at first.
 
 
 ## Contributing
