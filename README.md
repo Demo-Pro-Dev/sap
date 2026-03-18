@@ -52,13 +52,12 @@ See full guide:
 [Setup Guide](docs/setup-guide.md)
 
 
-## SAP Cloud (Optional but Recommended)
-
-You can alsonexplore SAP BTP before the course:
+## SAP BTP Cloud (Optional but Recommended)
+You can also explore SAP BTP before the course:
 
 * Create a free trial account
-* Explore ABAP Cloud environment
 * Understand SAP cloud architecture
+* Explore ABAP Cloud environment
 
 ### Learn more:
 [SAP BTP Guide](docs/sap-btp.md)
